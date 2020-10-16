@@ -38,10 +38,10 @@
   border: none;
   background-image: linear-gradient(-225deg, #32e44a 0%,
   #18f235 48%, #00be19 100%);
-  color: #e2e2e2;
+  color: #141414;
   outline: none;
 }
 
 .coin-input::placeholder{
-  color: #e2e2e2;
+  color: #141414;
 }
