@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "37c2eff7cba8f6e64fa23d1cb20a72cb",
+    "revision": "c93bdecc05c03602641ab621b33f153e",
     "url": "/cryptotrack/index.html"
   },
   {
-    "revision": "92aa55c8cf8f1868ed95",
-    "url": "/cryptotrack/static/css/main.9f7ec82d.chunk.css"
+    "revision": "7727baaa719b7b937930",
+    "url": "/cryptotrack/static/css/main.6b031b37.chunk.css"
   },
   {
     "revision": "dd72cda5089982df96b1",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cryptotrack/static/js/2.0a0ee5fb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "92aa55c8cf8f1868ed95",
+    "revision": "7727baaa719b7b937930",
     "url": "/cryptotrack/static/js/main.5c333dec.chunk.js"
   },
   {
