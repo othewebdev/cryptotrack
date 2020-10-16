@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cryptotrack/static/css/main.6b031b37.chunk.css",
+    "main.css": "/cryptotrack/static/css/main.9906adc9.chunk.css",
     "main.js": "/cryptotrack/static/js/main.5c333dec.chunk.js",
     "main.js.map": "/cryptotrack/static/js/main.5c333dec.chunk.js.map",
     "runtime-main.js": "/cryptotrack/static/js/runtime-main.7f9ca75d.js",
@@ -8,15 +8,15 @@
     "static/js/2.0a0ee5fb.chunk.js": "/cryptotrack/static/js/2.0a0ee5fb.chunk.js",
     "static/js/2.0a0ee5fb.chunk.js.map": "/cryptotrack/static/js/2.0a0ee5fb.chunk.js.map",
     "index.html": "/cryptotrack/index.html",
-    "precache-manifest.089450483b5858593d4a488e404a855e.js": "/cryptotrack/precache-manifest.089450483b5858593d4a488e404a855e.js",
+    "precache-manifest.ee695f6e1fa99af4ccec1360f7e84064.js": "/cryptotrack/precache-manifest.ee695f6e1fa99af4ccec1360f7e84064.js",
     "service-worker.js": "/cryptotrack/service-worker.js",
-    "static/css/main.6b031b37.chunk.css.map": "/cryptotrack/static/css/main.6b031b37.chunk.css.map",
+    "static/css/main.9906adc9.chunk.css.map": "/cryptotrack/static/css/main.9906adc9.chunk.css.map",
     "static/js/2.0a0ee5fb.chunk.js.LICENSE.txt": "/cryptotrack/static/js/2.0a0ee5fb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7f9ca75d.js",
     "static/js/2.0a0ee5fb.chunk.js",
-    "static/css/main.6b031b37.chunk.css",
+    "static/css/main.9906adc9.chunk.css",
     "static/js/main.5c333dec.chunk.js"
   ]
 }
